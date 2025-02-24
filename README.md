@@ -3,4 +3,5 @@
 
 # 1.	Uniform     2. Exponential       3. Gamma     4. Normal    5.  Log-Normal   6. Weibull
 
-"C:\Users\ridhi\OneDrive\Desktop\Study Material\R programming\MDS Assignment.pdf"
+[MDS Assignment.pdf](https://github.com/user-attachments/files/18947813/MDS.Assignment.pdf)
+
